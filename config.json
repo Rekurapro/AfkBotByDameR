@@ -1,6 +1,6 @@
 {
-	"ip":"isoff.aternos.me:",
-	"port": 48653,
+	"ip":"RekuraAlone.aternos.me",
+	"port": 50113,
 	"name": "afkbot",
 	"auto-night-skip":"true",
 	"login-enabled":"true",
